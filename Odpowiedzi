@@ -1,0 +1,8 @@
+1/ Jaki interfejs muszą implementować klasy, których obiekty chcemy serializować?
+Serializable
+
+2/ Jeżeli zależy nam na szybkim dostępie do danych, to z jakiego typu listy skorzystamy?
+ArrayList
+
+3/ Jeżeli mamy zamiar często zmieniać/wstawiać/usuwać elementy w środku listy lub na jej początku to z jakiej listy lepiej skorzystać?
+LinkedList
